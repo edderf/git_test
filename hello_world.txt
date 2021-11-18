@@ -1,1 +1,2 @@
-I am writing something here so i can play with git.
+I am writing something here so i can play with git. 
+This is me changing things again.
